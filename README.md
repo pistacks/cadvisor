@@ -1,6 +1,10 @@
 # cadvisor
 cAdvisor for ARM
 
+## Version
+
+- pistacks/cadvisor:0.34.0
+
 ## Usage
 
 ```
